@@ -1,2 +1,2 @@
 # galarcus
-GalArcus is an early-stage Python project.
+This project is in an early planning stage.
